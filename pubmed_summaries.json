@@ -1,19 +1,19 @@
 [
-  {
-    "id": "PMID:349281",
-    "title": "Efficacy of Drug X in severe cardiac failure.",
-    "authors": [
-      "Smith, J",
-      "Doe, A"
-    ],
-    "summary": "Drug X was effective in 40% of the 500 patients, although nausea was reported as an adverse effect.",
-    "error": null
-  },
-  {
-    "id": "8829102",
-    "title": "Title not provided",
-    "authors": [],
-    "summary": "The study reported no significant improvement in cohort B compared with placebo.",
-    "error": null
-  }
+    {
+        "pmid": "349281",
+        "title": "Efficacy of Drug X in severe cardiac failure.",
+        "authors": [
+            "Smith, J",
+            "Doe, A"
+        ],
+        "clinical_outcome_summary": "The study reported no significant improvement in cohort B compared with placebo.",
+        "status": "success"
+    },
+    {
+        "pmid": "8829102",
+        "title": "Untitled article",
+        "authors": [],
+        "clinical_outcome_summary": "The study reported no significant improvement in cohort B compared with placebo.",
+        "status": "success"
+    }
 ]
